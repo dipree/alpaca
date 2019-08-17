@@ -41,3 +41,6 @@ The Alpaca is a lightweight 5" cinematic all-round quadcopter frame with long-ra
 - [Designing Your First FPV Drone Frame](https://www.getfpv.com/learn/fpv-diy-repairs-and-mods/designing-first-fpv-drone-frame/)
 - [The Glide design and general frame design concepts](https://kababfpv.com/2019/02/06/the-glide-design-and-general-frame-design-concepts/)
 - [Ichabod Jr story](http://www.shendrones.com/ichabod-jr)
+
+## Where to get?
+Cut your own using the [latest release]() e.g. at [carbon-posten.de](https://carbon-posten.de/). In case you want the frame including hardware, contact [dip.fpv](https://www.instagram.com/dip.fpv/) on Instagram.
