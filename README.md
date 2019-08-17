@@ -43,4 +43,4 @@ The Alpaca is a lightweight 5" cinematic all-round quadcopter frame with long-ra
 - [Ichabod Jr story](http://www.shendrones.com/ichabod-jr)
 
 ## Where to get?
-Cut your own using the [latest release]() e.g. at [carbon-posten.de](https://carbon-posten.de/). In case you want the frame including hardware, contact [dip.fpv](https://www.instagram.com/dip.fpv/) on Instagram.
+Get your own frame cut using the [latest release](https://github.com/derpixeldan/alpaca/releases/) e.g. at [carbon-posten.de](https://carbon-posten.de/). In case you want the frame including hardware, contact [dip.fpv](https://www.instagram.com/dip.fpv/) on Instagram.
