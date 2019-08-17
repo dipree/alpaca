@@ -24,6 +24,8 @@ The Alpaca is a lightweight 5" cinematic all-round quadcopter frame with long-ra
 - 8 x M3 press nuts to fit 4.5mm holes
 
 ## Inspiration
+
+### Frames
 - [AstroX JohnnyFPV](http://astrox.kr/category/johnnyfpv/77/)
 - [ImpulseRC Alien](https://impulserc.com/collections/alien/products/alien-fpv-frame)
 - [ImpulseRC Reverb](https://impulserc.com/collections/reverb/products/reverb-fpv-frame)
@@ -35,7 +37,7 @@ The Alpaca is a lightweight 5" cinematic all-round quadcopter frame with long-ra
 - [TBS SourceOne](https://github.com/tbs-trappy/source_one)
 - [XBEE LB1](http://xbee.kr/product/xbee-lb1/497/)
 
-## Articles
+### Articles
 - [Designing Your First FPV Drone Frame](https://www.getfpv.com/learn/fpv-diy-repairs-and-mods/designing-first-fpv-drone-frame/)
 - [The Glide design and general frame design concepts](https://kababfpv.com/2019/02/06/the-glide-design-and-general-frame-design-concepts/)
 - [Ichabod Jr story](http://www.shendrones.com/ichabod-jr)
