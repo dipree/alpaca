@@ -9,6 +9,7 @@ The Alpaca is a lightweight 5" cinematic all-round quadcopter frame with long-ra
 - Arm thickness: 5mm
 - Standoff height: 30mm
 - Stack mounting: 20x20mm
+- Camera width: max. 21mm
 - Weight: 96.2g (w/ steel hardware)
 
 ## Hardware
