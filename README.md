@@ -20,7 +20,7 @@ The Alpaca is a lightweight, 5", cinematic, all-round quadcopter frame with long
 * 8 x M3/8mm button head screw
 * 4 x M3/12mm button head screw
 * 4 x M3/14mm button head screw
-* 8 x M3/28mm standoffs
+* 8 x M3/28mm, 5mm diameter standoffs
 * 8 x M3 press nuts to fit 4.5mm holes
 
 ## Inspiration
