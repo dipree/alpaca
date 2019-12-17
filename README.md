@@ -1,4 +1,4 @@
-# Alpaca
+# Alpaca 🦙
 The Alpaca is a lightweight, 5", cinematic, all-round quadcopter frame with long-range capabilities designed for 20x20mm mounting pattern components. The squished x-design with a 240mm motor to motor distance still leaves room for the propellers to unload. The front frame section is on a level with the front motors which allows to get camera shots without propellers in view.
 
 ![Alpaca frame render image](https://github.com/derpixeldan/alpaca/blob/master/images/alpaca-v2-render.png)
