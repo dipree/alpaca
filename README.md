@@ -1,10 +1,10 @@
 # Alpaca 🦙
-The Alpaca is a lightweight, 5", cinematic, all-round quadcopter frame with long-range capabilities designed for 20x20mm mounting pattern components. The squished x-design with a 240mm motor to motor distance gives enough space for clean air and stability. The front frame section is on a level with the front motors which allows to get camera shots without propellers in view.
+The Alpaca is a lightweight, 5", cinematic, all-round quadcopter frame with long-range capabilities designed for 20x20mm mounting pattern components. The squished x-design with a 230mm motor to motor distance gives space for clean air and stability. The front frame section is on a level with the front motors which allows to get camera shots without propellers in view.
 
 ![Alpaca frame render image](https://github.com/derpixeldan/alpaca/blob/master/images/alpaca-v2-render.png)
 
 ## Specifications
-* Wheelbase: 240mm (fits 5.5" propellers)
+* Wheelbase: 230mm (fits 5.1" propellers)
 * Top plate: 2mm
 * Center plate: 2mm
 * Bottom plate: 2mm
@@ -13,7 +13,7 @@ The Alpaca is a lightweight, 5", cinematic, all-round quadcopter frame with long
 * Standoff height: 28mm
 * Stack mounting: 20x20mm
 * Camera width: max. 21mm (Mini size)
-* Carbon weight: 75.4g
+* Carbon weight: 72.8g
 
 ![Alpaca frame wireframes](https://github.com/derpixeldan/alpaca/blob/master/images/alpaca-v2-wireframes.png)
 
