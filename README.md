@@ -15,8 +15,6 @@ The Alpaca is a lightweight, 5", cinematic, all-round quadcopter frame with long
 * Camera width: max. 21mm (Mini size)
 * Carbon weight: 72.8g
 
-![Alpaca frame wireframes](https://github.com/derpixeldan/alpaca/blob/master/images/alpaca-v2-wireframes.png)
-
 ## Hardware
 * 12 x M3/6mm button head screw
 * 4 x M3/6mm countersunk screw
@@ -30,4 +28,4 @@ The Alpaca is a lightweight, 5", cinematic, all-round quadcopter frame with long
 Use aluminum screws for the top and bottom plate to mount with the standoffs. The four rear holes on the top plate should be prepared for countersunk screws (this way your battery won't be damaged by the screw heads). Around 91g is the weight with half aluminum half steel hardware. The center stack should be soft-mounted, for example rubber o-rings underneath the electronic speed controller and rubber standoffs to mount the flight controller on top. There's camera plates for both Runcam and Foxeer mini size camera mounting pattern. Weight is key of this frame, take caution when adding extraneous parts.
 
 ## Where to get?
-Download the [latest release](https://github.com/derpixeldan/alpaca/releases/) and send the `.dxf` frame files alongside with the above [specifications](#specifications) to the carbon fiber cutting service of your choice. 
+Download the [latest release](https://github.com/derpixeldan/alpaca/releases/) and send the `.dxf` frame files alongside with the above [specifications](#specifications) to the carbon fiber cutting service of your choice.
