@@ -14,6 +14,7 @@ The Alpaca is a lightweight, 5", cinematic, all-round quadcopter frame with long
 * Camera width: max. 21mm (Mini size)
 * Carbon weight: 72.8g
 
+**Blueprint**
 ![Alpaca frame render image](https://github.com/dipree/alpaca/blob/master/images/alpaca-blueprint.svg)
 
 ## Hardware
