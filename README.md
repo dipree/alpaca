@@ -14,7 +14,7 @@ The Alpaca is a lightweight, 5", cinematic, all-round quadcopter frame with long
 * Carbon weight: 72.8g
 
 ### Carbon fiber plates
-All carbon fiber parts are in [alpaca/frame](https://github.com/dipree/alpaca/tree/master/frame), ready to cut.
+All carbon fiber parts are at [alpaca/frame](https://github.com/dipree/alpaca/tree/master/frame), ready to cut.
 * Top plate: 2mm
 * Center plate: 2mm
 * Bottom plate: 2mm
@@ -25,7 +25,7 @@ All carbon fiber parts are in [alpaca/frame](https://github.com/dipree/alpaca/tr
 ![Alpaca frame render image](https://github.com/dipree/alpaca/blob/master/images/alpaca-blueprint.svg)
 
 ### Accessoires
-Ready to print `.stl` files for different applications in [alpaca/accessories/](https://github.com/dipree/alpaca/tree/master/accessories). Best results can be achieved with SainSmart TPU.
+Ready to print `.stl` files for different applications are at [alpaca/accessories/](https://github.com/dipree/alpaca/tree/master/accessories). Best results can be achieved with SainSmart TPU.
 
 ## Required Hardware
 * 12 x M3/6mm button head screw
